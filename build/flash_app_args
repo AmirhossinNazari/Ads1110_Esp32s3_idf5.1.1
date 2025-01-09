@@ -1,0 +1,2 @@
+--flash_mode dio --flash_freq 80m --flash_size 2MB
+0x10000 Ads1110_Esp32s3_idf5.bin

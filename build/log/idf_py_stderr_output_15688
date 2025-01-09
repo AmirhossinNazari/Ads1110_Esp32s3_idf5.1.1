@@ -1,0 +1,26 @@
+fatal: detected dubious ownership in repository at 'C:/Espressif/frameworks/esp-idf-v5.1.1'
+'C:/Espressif/frameworks/esp-idf-v5.1.1' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-840347270-982919988-2657491874-1001'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/Espressif/frameworks/esp-idf-v5.1.1
+Compiler supported targets: xtensa-esp32s3-elf
+
+fatal: detected dubious ownership in repository at 'C:/Espressif/frameworks/esp-idf-v5.1.1'
+'C:/Espressif/frameworks/esp-idf-v5.1.1' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-840347270-982919988-2657491874-1001'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/Espressif/frameworks/esp-idf-v5.1.1
+fatal: detected dubious ownership in repository at 'C:/Espressif/frameworks/esp-idf-v5.1.1/components/openthread/openthread'
+'C:/Espressif/frameworks/esp-idf-v5.1.1/components/openthread/openthread/.git' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-840347270-982919988-2657491874-1001'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/Espressif/frameworks/esp-idf-v5.1.1/components/openthread/openthread
